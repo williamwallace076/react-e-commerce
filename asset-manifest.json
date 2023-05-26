@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86fc110d.css",
+    "main.js": "/static/js/main.73b4e8bd.js",
+    "static/js/787.c4356498.chunk.js": "/static/js/787.c4356498.chunk.js",
+    "static/media/calca-jeans.jpg": "/static/media/calca-jeans.045900bff8572351e6a6.jpg",
+    "static/media/slider-img-3.jpg": "/static/media/slider-img-3.338d35f484b301b49077.jpg",
+    "static/media/calça-jeans-feminina.jpg": "/static/media/calça-jeans-feminina.53d8d0842a76237f3cd6.jpg",
+    "static/media/camisa-amarela-gucci.png": "/static/media/camisa-amarela-gucci.915b424fa1a574fba60b.png",
+    "static/media/smart-watch-gucci.jpeg": "/static/media/smart-watch-gucci.3bad3c2c2e714515b34d.jpeg",
+    "static/media/sapato-couro-lacoste.PNG": "/static/media/sapato-couro-lacoste.c2fb197dcf333eae47db.PNG",
+    "static/media/ads.png": "/static/media/ads.116b544208c4a6444e38.png",
+    "static/media/sapatilha-moleka.webp": "/static/media/sapatilha-moleka.de8dbca512cec0600c41.webp",
+    "static/media/saia-rosa-feminina.jpg": "/static/media/saia-rosa-feminina.d6d87c88899e459fdbf4.jpg",
+    "static/media/slider-img-1.webp": "/static/media/slider-img-1.0d48b490ea8d4a65c39c.webp",
+    "static/media/slider-img-2.webp": "/static/media/slider-img-2.9d8c87790418eda12f39.webp",
+    "static/media/camisa-lacoste.jpg": "/static/media/camisa-lacoste.ce42bf52857c7fbdd2b8.jpg",
+    "static/media/corrente-prata.webp": "/static/media/corrente-prata.f7aa773648ce3f3765cc.webp",
+    "static/media/sapatenis-nike.jpeg": "/static/media/sapatenis-nike.a29590439659626a22f8.jpeg",
+    "static/media/colar-perolas.webp": "/static/media/colar-perolas.94e7634d50419de9c0d6.webp",
+    "static/media/camisa-jeans.webp": "/static/media/camisa-jeans.4f170d369d8fc2ee793f.webp",
+    "static/media/camisa-lista-adidas.webp": "/static/media/camisa-lista-adidas.d9d9ff54a8b0a08e76d3.webp",
+    "static/media/camisa-gola-polo-adidas.webp": "/static/media/camisa-gola-polo-adidas.c69e3161e9dd56128764.webp",
+    "static/media/cordao-ouro.jpg": "/static/media/cordao-ouro.f7f62d5ecee2270c6436.jpg",
+    "static/media/1.png": "/static/media/1.d1cefc68302bd54895c3.png",
+    "static/media/sapato-social.webp": "/static/media/sapato-social.eef91caab59f4836c7b5.webp",
+    "static/media/4.png": "/static/media/4.f3eed9c085fa0da27968.png",
+    "index.html": "/index.html",
+    "main.86fc110d.css.map": "/static/css/main.86fc110d.css.map",
+    "main.73b4e8bd.js.map": "/static/js/main.73b4e8bd.js.map",
+    "787.c4356498.chunk.js.map": "/static/js/787.c4356498.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fc110d.css",
+    "static/js/main.73b4e8bd.js"
+  ]
+}
